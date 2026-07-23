@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner1.gif"
+  <img src="./assets/banner2.gif"
        width="100%"
        style="transform: rotate(90deg);"
        alt="Priya Pandey Banner"/>
