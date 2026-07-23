@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img src="./assets/banner1.gif"
+       width="100%"
+       style="transform: rotate(90deg);"
+       alt="Priya Pandey Banner"/>
+</p>
+<br>
 Hi, I'm Priya 👋<br><br>🔭 Currently building Full Stack Web Applications & strengthening DSA.<br>🌱 Learning System Design, DevOps, Cloud Computing & AI.<br>💻 Passionate about Full Stack Development, UI/UX and creating meaningful digital experiences.<br>🤝 Open to collaborating on Open Source, Full Stack & UI/UX projects.<br>⚡ Fun Fact: I enjoy transforming ideas into beautiful, user-centric products.
 
 
